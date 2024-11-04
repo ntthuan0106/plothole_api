@@ -146,3 +146,4 @@ D:\code\hoc lap trinh c#\PotholeDetectionApi\PotholeDetectionApi\bin\Debug\net8.
 D:\code\hoc lap trinh c#\PotholeDetectionApi\PotholeDetectionApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\code\hoc lap trinh c#\PotholeDetectionApi\PotholeDetectionApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\code\hoc lap trinh c#\PotholeDetectionApi\PotholeDetectionApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\code\hoc lap trinh c#\PotholeDetectionApi\PotholeDetectionApi\obj\Debug\net8.0\PotholeDetectionApi.sourcelink.json

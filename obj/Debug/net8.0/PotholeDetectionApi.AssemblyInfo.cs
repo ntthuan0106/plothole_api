@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PotholeDetectionApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d84be1d4525829cdc8524438d162253fcd12dfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PotholeDetectionApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PotholeDetectionApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
