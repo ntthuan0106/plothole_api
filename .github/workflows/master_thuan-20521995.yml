@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: thuan-20521995
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6594C81FBD704D69AB1144D095FDA225 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C93CF4F5CE7D411EA9B8AC53ED42A8B9 }}
         package: ${{env.DOTNET_ROOT}}/myapp
 
