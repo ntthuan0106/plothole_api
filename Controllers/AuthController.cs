@@ -29,7 +29,7 @@ namespace PotholeDetectionApi.Controllers
             var result = await _userManager.CreateAsync(user, registerDto.Password);
 
             if (result.Succeeded)
-                return Ok("User registered successfully");
+                return Ok(new { Message = "User registered successfully" });
 
             return BadRequest(result.Errors);
         }
